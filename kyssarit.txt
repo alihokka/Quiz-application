@@ -1,0 +1,15 @@
+Missä Academyn kampus sijaitsee? a) Helsingissä b) Espoossa c) Vaasassa,b
+Mikä on kuuluisan Disney-hahmon nimi? a) Baku Wankka b) Saku Koivu c) Aku Ankka,c
+Mikä on kuuluisan tsekkoslovakialaisen piirroshahmon nimi? a) Petr b) Krtek c) Matti,b
+Onko Java ja JavaScript sama asia? a) Kyllä b) en tiedä c) ei,c
+Kuka on Frisbeegolfin avoimen sarjan  hallitseva maailmanmestari a) Seppo Paju b) Gregg Barsby c) Paul McBeth,c
+Mikä on Suomen toiseksi vanhin kaupunki? a) Porvoo b) Helsinki c) Turku,a
+Mikä on Pasilan uuden kauppakeskuksen nimi? a) Tripla b) Tupla c) Ykspla,a
+Mikä on Kalasataman kauppakeskuksen nimi? a) Gedi b) Redi c) Medi,b
+Mikä seuraavista on Saksalainen automerkki? a) Cadillac b) Ferrari c) BMW,c
+Minä vuonna Apollo11 lähti matkaan? a) 1969 b)1968 c) 1967,a
+Mikä on japanilaisen soitinvalmistajan nimi? a) Korg b) Jorg c) Morg,a
+
+
+
+
